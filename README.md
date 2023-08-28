@@ -1,2 +1,2 @@
 # CS_1
-This is my Demo repository
+This is my first Demo repository
